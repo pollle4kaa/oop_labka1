@@ -2,6 +2,7 @@
 
 int plus(int a, int b);
 int minus(int a, int b);
+int umnozh(int a, int b);
 
 int main() {
 	int x, y;
