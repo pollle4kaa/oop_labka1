@@ -9,4 +9,5 @@ int main() {
 	std::cin >> x >> y;
 	std::cout << "rezultat plus: " << plus(x,y) << std::endl;
 	std::cout << "rezultat minus: " << minus(x, y) << std::endl;
+	std::cout << "rezultat umnozh: " << umnozh(x, y) << std::endl;
 }
