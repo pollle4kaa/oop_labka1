@@ -11,7 +11,7 @@ utils.cpp содержит функции сложения и вычитания
 
 Создала файл CMakeLists.txt в корне репозитория, который включает main.cpp и utils.cpp
 
-Убедилась, что проект успешно собирается с помощью CMake (mkdir build && cd build && cmake .. && debug\oop_labka1)
+Убедилась, что проект успешно собирается с помощью CMake (mkdir build && cd build && cmake .. && debug\oop_labka1.exe)
 
 ### Работа с Git
 git init
@@ -42,6 +42,6 @@ git commit -m "fix: Update main output message in main branch"
 
 git add .
 
-git commit -m "Initial commit: Razreshenie conflictov sliyaniya"
+git commit -m "Initial commit: Razreshenie conflictov sliyaniya" ("fx: Update main output message in main branch")
 
 Отправила все ветки и коммиты в удаленный репозиторий: git push
