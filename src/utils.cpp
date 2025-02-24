@@ -5,3 +5,7 @@ int plus(int a, int b) {
 int minus(int a, int b) {
 	return a - b;
 }
+
+int umnozh(int a, int b) {
+	return a * b;
+}
